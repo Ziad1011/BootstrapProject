@@ -1,0 +1,150 @@
+.navbarr{
+  margin-right: 280px;
+  font-size: 15px;
+  gap: 13px;
+  color: #fff;
+
+}
+
+.navbar{
+      background-color: #f4511e;
+      color: #fff;
+
+    font-family: Montserrat, sans-serif;
+}
+.navbar-nav li a:hover, .navbar-nav li.active a {
+    color: #f4511e !important;
+    background-color: #fff !important;
+  }
+
+
+.com{
+  background-color: #f4511e;
+  padding: 110px 25px;
+  color: #fff;
+}
+  h2 {
+    font-size: 36px;
+    text-transform: uppercase;
+    color:white;
+    font-weight: 600;
+    margin-bottom: 30px;
+    font-family: Montserrat, sans-serif;
+    letter-spacing: 5px;
+    margin-top: 20px;
+    margin-top: 10px;
+  }
+  h4{
+    font-size: 21px;
+    font-weight: 200;
+    font-family: Montserrat, sans-serif;
+
+}
+.form-control-sm{
+  border: none;
+}
+h3{
+  font-size: 24px;
+    text-transform: uppercase;
+    color: #303030;
+    font-weight: 600;
+}
+h5{
+  font-size: 19px;
+    line-height: 1.375em;
+    color: #303030;
+    font-weight: 400;
+}
+p{
+  font: 400 15px Lato, sans-serif;
+    line-height: 1.8;
+    color: #818181;
+}
+.btn1{
+  font-size: 18px;
+    line-height: 1.3333333;
+    border-radius: 6px;
+    color: #333;
+    background-color: #fff;
+    border-color: #ccc;
+
+}
+.btn1:hover{
+  background-color: #818181;
+}
+.logo{
+  color: #f4511e;
+  font-size: 150px;
+}
+.fa-earth-americas{
+  color: #f4511e;
+  font-size: 150px;
+}
+
+.service{
+  background-color: #f6f6f6;
+
+}
+.fa-power-off{
+  color: #f4511e;
+  font-size: 59px;
+}
+.portfolio{
+  background-color: #f6f6f6;
+}
+.portfolio h4{
+  font-family: inherit;
+    font-weight: bold;
+  color: #303030;
+font-size: 30px;
+}
+ .say{
+  color: black;
+  font-size: 24px;
+    text-transform: uppercase;
+    color: #303030;
+    font-weight: 600;
+    margin-bottom: 30px;
+    font-family: inherit;
+
+
+ }
+ .slider{
+  background-color: #f6f6f6;
+ }
+ .slider h5{
+  font-size: 19px;
+    line-height: 1.375em;
+    font-weight: 400;
+    font-style: italic;
+    margin: 70px 0;
+
+  
+ }
+ .carousel-control-prev-icon , .carousel-control-next-icon {
+  background-image: none;
+  
+ }
+ .carousel-control-prev , .carousel-control-next{
+  opacity: 1;
+ }
+ .fa-chevron-right , .fa-chevron-left {
+  font-size: 30px;
+  color: #f6f6f6;
+  
+  
+}
+ #contact p{
+  color: gray;
+  text-align: justify;
+ }
+ #contact{
+  background-color: #f6f6f6;
+ }
+.submit{
+  background-color: #ccc;
+}
+.active{
+  background-color: white;
+  color: #f4511e !important;;
+}
